@@ -1,0 +1,6 @@
+1 - Copiar os arquivos para pasta da aplicação: ISSFortaleza.INI, Cidades.INI, capicom.dll,
+    instala.bat, msxml5.dll, msxml5r.dll.
+2 - Executar o instala.bat.
+3 - Configurar nas configurações do sistema todas as pastas.
+4 - Copiar da pasta Schemas para as configurações definidas no sistema.
+5 - Copiar as dlls da pasta dll na bin.
